@@ -9,5 +9,5 @@ Angular, React, TypeScript, SQL Server and modern scalable architectures with mi
 - 💬 Ask me about .NET, Node.js, Angular, React, SQL, and scalable systems  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-moura-ramos)
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Proudly from Mato Grosso do Sul — fueled by **tereré** and barbecue 🍖🥤
+- ⚡ Fun fact: Proudly from Mato Grosso do Sul — fueled by tereré and barbecue 🍖🥤
 - 🌍 Dream: To work for leading technology companies around the world 
