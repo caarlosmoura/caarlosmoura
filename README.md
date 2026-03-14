@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-CarlosMouraRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-moura-ramos)](https://www.linkedin.com/in/carlos-moura-ramos)  
+
 I am **Carlos Moura Ramos**, working as Fullstack Development Specialist @Marlabs, using technologies like .NET Core, ASP.NET, Node.js, 
 Angular, React, TypeScript, SQL Server and modern scalable architectures with microservices, RESTful APIs, and event-driven systems.  
 
